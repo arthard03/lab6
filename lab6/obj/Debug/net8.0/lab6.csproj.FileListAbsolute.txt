@@ -37,3 +37,4 @@ C:\Users\ovsii\RiderProjects\lab6\lab6\obj\Debug\net8.0\refint\lab6.dll
 C:\Users\ovsii\RiderProjects\lab6\lab6\obj\Debug\net8.0\lab6.pdb
 C:\Users\ovsii\RiderProjects\lab6\lab6\obj\Debug\net8.0\lab6.genruntimeconfig.cache
 C:\Users\ovsii\RiderProjects\lab6\lab6\obj\Debug\net8.0\ref\lab6.dll
+C:\Users\ovsii\RiderProjects\lab6\lab6\obj\Debug\net8.0\lab6.sourcelink.json
