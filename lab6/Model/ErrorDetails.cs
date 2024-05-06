@@ -3,6 +3,7 @@ using System.Text.Json;
 namespace lab6.Model
 {
 
+// TODO, try to implement Handling Errors Globally With the Custom Middleware
 
 
     public class ErrorDetails
