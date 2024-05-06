@@ -19,7 +19,6 @@ namespace Task6.Controllers
         [HttpPost]
         public async Task<IActionResult> AddProductToWarehouse(ProductWarehouseRequest request)
         {
-            
             if (request.Amount <= 0)
             {
                 throw new AmountException();
@@ -117,11 +116,10 @@ namespace Task6.Controllers
                         $"Inserted successfully! Primary Key: {insertedPrimaryKey}, Order Created At: {orderCreatedAt}");
                 }
             }
-            catch(Exception)
+            catch (Exception)
             {
                 throw new InsertException();
             }
-
         }
     }
 }
